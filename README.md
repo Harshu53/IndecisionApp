@@ -1,2 +1,0 @@
-# IndecisionApp
-Created with CodeSandbox
